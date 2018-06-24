@@ -1,0 +1,2 @@
+.modal-background,.modal-wrapper{left:0;position:absolute;top:0}.modal-wrapper{align-items:center;display:flex;justify-content:center}.modal-background,.modal-wrapper{height:100vh;width:100vw}.modal-window{background:#fff;border-radius:5px;box-shadow:2px 2px 10px rgba(255,65,54,.3);padding:15px;position:relative;z-index:1}.modal-background{background:rgba(255,65,54,.5)}.close-button{background:transparent;border:0 none;padding:10px;position:absolute;right:0;top:0}
+/*# sourceMappingURL=../../../maps/src/Components/Modal/Modal.css.map */
